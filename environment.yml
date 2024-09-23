@@ -1,0 +1,15 @@
+name: dp2024
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - compas=1.17.5
+  - compas_cgal=0.5
+  - compas_fab=0.27
+  - compas_occ=0.7
+  - compas_rrc=1.1
+  - compas_slicer
+  - git
+  - pip
+  - python=3.10.9
+  - scipy=1.10.1
