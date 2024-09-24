@@ -1,6 +1,6 @@
 # Installation
 
-## Supported OS
+## Compatibility
 * Windows 10 Pro
 * Windows 11 Pro
 * Mac OS  - Apple Silicon M1, M2
@@ -83,7 +83,7 @@ The code shoud output the following:
 * Follow the installation wizard, making sure that:
     * RobotWare Version is `7.15.2`
     * Wizard Easy Programming version is `1.6.0`
-* Navigate to the `Controller` tab, open `FlexPendant` and follow installation wizart
+* Navigate to the `Controller` tab, open `FlexPendant` and follow installation wizard
 ---
 
 ### UTM - MacOS users only
@@ -93,7 +93,7 @@ Add instructions
 
 ### Docker
 
-* Open Docker Desktop is running (a Docker icon should appear in the Windows tray)
+* Open Docker Desktop (a Docker icon should appear in the Windows tray)
 
 * Open VS Code and open this repository folder
 
