@@ -93,7 +93,7 @@ Add instructions
 
 ### Docker
 
-* Open Docker Desktop is running (a Docker icon should appear in the Windows tray)
+* Open Docker Desktop (a Docker icon should appear in the Windows tray)
 
 * Open VS Code and open this repository folder
 
