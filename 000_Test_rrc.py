@@ -22,20 +22,15 @@ if __name__ == '__main__':
     # Set speed [mm/s]
     speed = 100
     
-    # Open Gripper real
-    abb.send_and_wait(rrc.SetDigital('S2_C2', 1))
     # Open Gripper virtual
     abb.send_and_wait(rrc.SetDigital('Gripper_Close', 0))
     
-
     # Move robot the new pos
     done = abb.send_and_wait(rrc.MoveToJoints(robot_joints, external_axes, speed, rrc.Zone.FINE))
 
     # Print feedback 
     print('Feedback = ', done)
 
-    # Close Gripper real
-    abb.send_and_wait(rrc.SetDigital('S2_C2', 0))
     # Close Gripper virtual
     abb.send_and_wait(rrc.SetDigital('Gripper_Close', 1))
 
