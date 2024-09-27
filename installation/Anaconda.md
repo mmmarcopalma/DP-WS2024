@@ -14,7 +14,7 @@
 5) Add to Rhino
 ```conda
 (base) conda activate dp2024
-(dp2024) python -m compas_rhino.install -v 7.0
+(dp2024) python -m compas_rhino.install -v 8.0
 ```
 
 6) Verify installation
