@@ -11,5 +11,5 @@ print(compas_fab)
 
 3) All good if the code outputs the following:
 ```python
-<module 'compas_fab' from 'C:\Users\marco\AppData\Roaming\McNeel\Rhinoceros\7.0\scripts\compas_fab\__init__.py'>
+<module 'compas_fab' from 'C:\Users\marco\AppData\Roaming\McNeel\Rhinoceros\8.0\scripts\compas_fab\__init__.py'>
 ```

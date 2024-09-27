@@ -9,12 +9,12 @@
 ### Requirements - Windows and MacOS users
 * [Anaconda 3](https://www.anaconda.com/download) : Python package manager
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) : Virtualization environment
-* [Rhino 7 & Grasshopper](https://www.rhino3d.com/download) : 3D and parametric modelling software
+* [Rhino 8 & Grasshopper](https://www.rhino3d.com/download) : 3D and parametric modelling software
 * [Visual Studio Code](https://code.visualstudio.com/) : Code editor + extensions
 
 ### Requirements - Windows users only
 * [ABB RobotStudio](https://new.abb.com/products/robotics/robotstudio): Robot simulation
-* VPN Client
+* VPN Client - to do
 
 ### Requirements - MacOS users only
 * [UTM](https://mac.getutm.app) - Virtual Machine for mac
@@ -30,7 +30,7 @@
 ### Visual Studio Code
 *  Check [Visual Studio](VS.md) tutorial
 
-### Rhino 7
+### Rhinoceros
 * Check [Rhino](Rhino.md) tutorial
 
 ### Docker
