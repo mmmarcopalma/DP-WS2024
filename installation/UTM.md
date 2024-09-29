@@ -1,6 +1,6 @@
-1. Open UTM
+1.Open UTM
 
-2. Click the `+` icon
+2.Click the `+` icon
 
 ![](imgs/UTM_1.png)
 
@@ -37,5 +37,9 @@
 ![](imgs/UTM%20(9).png)
 
 11.Run `Windows Image` - Password is `DigitalProduction` - Open `RobotStudio`
+
+12.In MacOS, open this repo's folder in VS Code, open `virtual_controller_mac/docker-compose.yml` and `Compose-Up` 
+
+13.Start simulation in RobotStudio from the utm virtual machine
 
 ![](imgs/SUCCESS.png)
