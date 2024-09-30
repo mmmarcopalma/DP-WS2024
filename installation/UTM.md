@@ -28,7 +28,7 @@
 
 ![](imgs/UTM%20(7).png)
 
-9.Check `Network` settings - Tick `Show advanced settings` - Add `10.0.0.2` in the `Guest Network` field
+9.Check `Network` settings - Tick `Show advanced settings` - Add `10.0.2.0` in the `Guest Network` field
 
 ![](imgs/UTM%20(8).png)
 
