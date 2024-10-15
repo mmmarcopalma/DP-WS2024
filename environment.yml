@@ -8,7 +8,6 @@ dependencies:
   - compas_fab=0.27
   - compas_occ=0.7
   - compas_rrc=1.1
-  - compas_slicer
   - git
   - pip
   - python=3.10.9
