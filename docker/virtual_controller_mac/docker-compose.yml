@@ -41,7 +41,7 @@ services:
       - --wait
       - compas_rrc_driver
       - bringup.launch
-      - robot_ip:=10.0.2.1
+      - robot_ip:=10.0.2.2
       - robot_streaming_port:=30101
       - robot_state_port:=30201
       - namespace:=rob1_virtual\

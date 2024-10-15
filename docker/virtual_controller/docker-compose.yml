@@ -44,4 +44,4 @@ services:
       - robot_ip:=host.docker.internal
       - robot_streaming_port:=30101
       - robot_state_port:=30201
-      - namespace:=rob1_virtual\
+      - namespace:=rob1_virtual

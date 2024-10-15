@@ -31,7 +31,7 @@
 *  Check [Visual Studio](VS.md) tutorial
 
 ### Rhinoceros
-* Check [Rhino](Rhino.md) tutorial
+* Check [Rhino](Rhinoceros.md) tutorial
 
 ### Docker
 * Check [Docker](Docker.md) tutorial
